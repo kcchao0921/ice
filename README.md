@@ -1,2 +1,2 @@
 # ice
-Implements RFC 5389
+Implements RFC 5245
